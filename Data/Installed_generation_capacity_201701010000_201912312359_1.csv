@@ -1,0 +1,4 @@
+﻿Date;Time of day;Biomass[MW];Hydropower[MW];Wind offshore[MW];Wind onshore[MW];Photovoltaics[MW];Other renewable[MW];Nuclear[MW];Fossil brown coal[MW];Fossil hard coal[MW];Fossil gas[MW];Hydro pumped storage[MW];Other conventional[MW]
+Jan 1, 2017;12:00 AM;7,080;5,446;4,131;47,042;40,834;550;10,793;21,262;27,437;32,627;8,894;7,720
+Jan 1, 2018;12:00 AM;7,396;5,300;5,051;51,633;42,804;534;9,516;21,275;25,035;31,361;8,918;7,375
+Jan 1, 2019;12:00 AM;7,752;5,281;6,393;52,792;45,299;487;9,516;21,205;25,293;31,664;9,422;7,277
