@@ -1,6 +1,6 @@
 # IBM Advanced Data Science Capstone Project
 
-Project Title: Analyze and Forcast Electricity Market in Germany\
+Project Title: Analyze and Forecast Electricity Market in Germany\
 Author: Siavash Saki
 
 Project Presentation:
